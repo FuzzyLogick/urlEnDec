@@ -12,3 +12,6 @@ This script depends on urllib to run.
 This Python script was written by James Russell.
 
 Usage: ./urlEnDec.py
+
+
+You can read more about it here: http://www.james-a-russell.com/blog/urlendec-py-the-url-encoder-decoder/
